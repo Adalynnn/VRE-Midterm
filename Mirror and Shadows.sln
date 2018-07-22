@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror and Shadows", "Assembly-CSharp.csproj", "{DE486592-9CAC-A4CD-0D98-3C306841C608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror and Shadows", "Assembly-CSharp-Editor.csproj", "{D78D99A3-23B4-B628-9C17-4E40319B55A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE486592-9CAC-A4CD-0D98-3C306841C608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE486592-9CAC-A4CD-0D98-3C306841C608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE486592-9CAC-A4CD-0D98-3C306841C608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE486592-9CAC-A4CD-0D98-3C306841C608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78D99A3-23B4-B628-9C17-4E40319B55A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78D99A3-23B4-B628-9C17-4E40319B55A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78D99A3-23B4-B628-9C17-4E40319B55A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78D99A3-23B4-B628-9C17-4E40319B55A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
